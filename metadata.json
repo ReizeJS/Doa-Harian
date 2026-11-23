@@ -1,0 +1,6 @@
+{
+  "name": "Doa Harian",
+  "description": "Aplikasi kumpulan doa harian Bahasa Indonesia yang ringkas, bersih, bebas login, dan offline-first dengan rekomendasi kontekstual real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
